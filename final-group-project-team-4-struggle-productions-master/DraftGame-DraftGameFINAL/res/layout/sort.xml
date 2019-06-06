@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Sort By Consoles" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2"
+        >
+
+        <CheckBox
+            android:id="@+id/sort_PS4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PS4"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="start"
+            />
+        <CheckBox
+            android:id="@+id/sort_XBOX"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="XBOX"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_gravity="end"
+            android:paddingRight="5dp"
+            />
+        <CheckBox
+            android:id="@+id/sort_PC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PC"
+            android:layout_row="1"
+            android:layout_column="0"
+            />
+        <CheckBox
+            android:id="@+id/sort_Switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Switch"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_gravity="end"
+            />
+
+    </GridLayout>
+
+</LinearLayout>

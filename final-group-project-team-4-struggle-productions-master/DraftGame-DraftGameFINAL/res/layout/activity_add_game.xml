@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <EditText
+        android:id="@+id/add_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Game's Name"
+        />
+    <EditText
+        android:id="@+id/add_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Description of Game"
+        />
+    <EditText
+        android:id="@+id/add_publisher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Publisher's name"
+        />
+    <TextView
+        android:id="@+id/add_date_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Select a release date"
+        />
+    <CalendarView
+        android:id="@+id/add_release_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:minDate="11/15/2013"
+        />
+    <TextView
+        android:id="@+id/add_console_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Select applicable consoles"/>
+
+    <GridLayout
+        android:rowCount="2"
+        android:columnCount="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <CheckBox
+        android:id="@+id/PS4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="PS4"
+        android:layout_gravity="start"
+        android:layout_row="0"
+        android:layout_column="0"
+        />
+    <CheckBox
+        android:id="@+id/XBOX1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="XBOX1"
+        android:layout_gravity="end"
+        android:layout_row="0"
+        android:layout_column="1"
+        />
+    <CheckBox
+        android:id="@+id/SWITCH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="Switch"
+        android:layout_gravity="start"
+        android:layout_row="1"
+        android:layout_column="0"
+        />
+    <CheckBox
+        android:id="@+id/PC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="PC"
+        android:layout_gravity="end"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:paddingRight="27dp"/>
+    </GridLayout>
+
+
+    <Button
+        android:id="@+id/add_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingVertical="15dp"
+        android:text="Categories"
+        android:onClick="categorySelector"
+        android:layout_row="0"
+        android:layout_column="0"
+        />
+
+    <Button
+        android:id="@+id/add_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingVertical="15dp"
+        android:text="SUBMIT"
+        android:onClick="submitGame"
+        />
+
+
+
+</LinearLayout>
+</ScrollView>

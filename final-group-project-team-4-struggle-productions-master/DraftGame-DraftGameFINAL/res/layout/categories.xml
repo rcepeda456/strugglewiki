@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/cate_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Select Game Categories"/>
+
+    <CheckBox
+        android:id="@+id/cate_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Action"/>
+    <CheckBox
+        android:id="@+id/cate_adventure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Adventure"/>
+    <CheckBox
+        android:id="@+id/cate_fighting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fighting"/>
+    <CheckBox
+        android:id="@+id/cate_jrpg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JRPG"/>
+    <CheckBox
+        android:id="@+id/cate_rpg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RPG"/>
+    <CheckBox
+        android:id="@+id/cate_shooter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shooter"/>
+
+</LinearLayout>

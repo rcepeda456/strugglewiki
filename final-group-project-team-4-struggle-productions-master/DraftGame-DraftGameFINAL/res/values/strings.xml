@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">DraftGame</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="ssbu_desc">Super Smash Bros. Ultimate is an upcoming crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch. It is the fifth installment in the Super Smash Bros. series, succeeding Super Smash Bros. for Nintendo 3DS and Wii U. The game follows the series\' traditional style of gameplay: controlling one of various characters, players must use differing attacks to weaken their opponents and knock them out of an arena. It features a wide variety of game modes, including a campaign for a single-player and multiplayer versus modes. Ultimate includes every playable character from previous Super Smash Bros. titles—ranging from Nintendo's mascots to characters from third-party franchises—and several newcomers.</string>
+    <string name="gow_desc">God of War is an action-adventure video game developed by Santa Monica Studio and published by Sony Interactive Entertainment (SIE). Released on April 20, 2018, for the PlayStation 4 (PS4) console, it is the eighth installment in the God of War series, the eighth chronologically, and the sequel to 2010\'s God of War III. Unlike previous games, which were loosely based on Greek mythology, this installment is loosely based on Norse mythology, with the majority of it set in ancient Norway in the realm of Midgard. For the first time in the series, there are two main protagonists: Kratos, the former Greek God of War who remains as the only playable character, and he is joined by his young son Atreus; at times, the player may passively control him. Following the death of Kratos' second wife and Atreus' mother, they journey to fulfill her promise to spread her ashes at the highest peak of the nine realms. Kratos keeps his troubled past a secret from Atreus, who is unaware of his divine nature. Along their journey, they encounter monsters and gods of the Norse world.</string>
+    <string name="fallout_desc">Fallout 76 is an online action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks, part of the Fallout series. Released for Microsoft Windows, PlayStation 4, and Xbox One on November 14, 2018, it is a prequel to previous series games. Fallout 76 is Bethesda Game Studios\'s first multiplayer game; players explore the open world, which has been torn apart by nuclear war, with others. Bethesda developed the game using a modified version of its Creation Engine, which allowed the accommodation of multiplayer gameplay and a more detailed game world. Fallout 76 was released to generally mixed reviews, with many criticizing the game's numerous technical issues, overall design, lack of gameplay purpose, and absence of human non-playable characters.</string>
+    <string name="rdr2_desc">Red Dead Redemption 2 is a Western-themed action-adventure game developed and published by Rockstar Games. It is a prequel to the 2010 game Red Dead Redemption, and the third entry in the Red Dead series. Set in 1899, the story centres on outlaw Arthur Morgan, a member of the Van der Linde gang, while also following fellow gang member John Marston, the protagonist of the original Red Dead Redemption. Red Dead Redemption 2 was released for PlayStation 4 and Xbox One on October 26, 2018. It was universally acclaimed by critics, who praised the story, characters, open world, and considerable level of detail. The game generated $725 million in sales from its opening weekend, shipping over 17 million copies in two weeks.</string>
+    <string name="kh3_desc">Kingdom Hearts III is an upcoming action role-playing video game developed and published by Square Enix for the PlayStation 4 and Xbox One. It is the twelfth installment in the Kingdom Hearts series, a sequel to Kingdom Hearts II, and the final chapter in the Dark Seeker saga. Set after the events of Kingdom Hearts 3D: Dream Drop Distance, returning protagonist Sora is joined by Donald Duck, Goofy, King Mickey and Riku in their search for the seven Guardians of Light and the "Key to Return Hearts" as they attempt to thwart the restored Master Xehanort\'s plan to bring about a second Keyblade War. Their journey has them cross paths with characters and visit worlds based on different Disney and Pixar properties, and Square Enix\'s Final Fantasy franchise. Concepts for the game began as early as 2006 after the release of Kingdom Hearts II: Final Mix in Japan, with the game not confirmed to be in development until E3 2013 after years of rumors and speculation. Kingdom Hearts III sees many returning gameplay features from the series, while expanding parties to five characters total, introducing new "Attraction Flow" attacks that incorporate various Disney Parks attractions, and mini-games inspired by classic Walt Disney Productions Mickey Mouse cartoons in the style of 1980s LCD games. The game was built using Unreal Engine 4 and was completed in November 2018. It is scheduled to be released worldwide in January 2019.</string>
+    <string name="spider_desc">Marvel\'s Spider-Man is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 4, based on the Marvel Comics superhero Spider-Man. Released worldwide on September 7, 2018, it was the first licensed game developed by Insomniac. The game tells an original story about Spider-Man that is not tied to any other existing piece of media, and covers both the Peter Parker and Spider-Man aspects of the character. Critics called it one of the best superhero games ever made, praising its gameplay, particularly the combat and web-swinging mechanics, graphics, narrative, characterization, and design of New York City, though felt it lacked innovation in its open world design. The game became a commercial success, selling 3.3 million copies in its first three days of release, breaking several sales records.</string>
+    <string name="over_desc">Overwatch is a team-based multiplayer first-person shooter video game developed and published by Blizzard Entertainment, which released on May 24, 2016 for PlayStation 4, Xbox One, and Windows. Described as a "hero shooter", Overwatch assigns players into two teams of six, with each player selecting from a roster of nearly 30 characters, known as "heroes", each with a unique style of play whose roles are divided into three general categories that fit their role. Players on a team work together to secure and defend control points on a map or escort a payload across the map in a limited amount of time. Players gain cosmetic rewards that do not affect gameplay, such as character skins and victory poses, as they play the game. The game was initially launched with casual play, with a competitive ranked mode, various 'arcade' game modes, and a player-customizable server browser subsequently included following its release. Additionally, Blizzard has added new characters, maps, and game modes post-release, all free of charge, with the only additional cost to players being optional loot boxes to earn cosmetic items.</string>
+    <string name="witcher_desc">The Witcher 3: Wild Hunt is a 2015 action role-playing game developed and published by CD Projekt. Based on The Witcher series of fantasy novels by Polish author Andrzej Sapkowski, it is the sequel to the 2011 game The Witcher 2: Assassins of Kings. Played in an open world with a third-person perspective, players control protagonist Geralt of Rivia, a monster hunter known as a witcher, who is looking for his missing adopted daughter on the run from the Wild Hunt: an otherworldly force determined to capture and use her powers. Players battle the game\'s many dangers with weapons and magic, interact with non-player characters, and complete main-story and side quests to acquire experience points and gold, which are used to increase Geralt's abilities and purchase equipment. Its central story has several endings, determined by the player's choices at certain points in the game.</string>
+    <string name="kuni_desc">Ni no Kuni II: Revenant Kingdom is an action role-playing game developed by Level-5 and published by Bandai Namco Entertainment. The game is a sequel to Ni no Kuni: Wrath of the White Witch, and was released for Microsoft Windows and PlayStation 4 on March 23, 2018. The story follows Evan Pettiwhisker Tildrum, a young king who was usurped from his castle and sets out to build a new kingdom. While players can freely navigate Evan throughout the game\'s overworld, other characters in the party can be freely controlled in battles. During these battles, players use magical abilities and are assisted by elemental creatures known as "Higgledies", which are used to cast spells and grant other combat bonuses. The game received generally positive critical reception, and sold over 900,000 copies worldwide by May 2018.</string>
+    <string name="souls_desc">Dark Souls is an action role-playing game developed by FromSoftware and published by Namco Bandai Games. A spiritual successor to FromSoftware\'s Demon\'s Souls, the game is the second installment in the Souls series. It was released for the PlayStation 3 and Xbox 360 in Japan by FromSoftware in September 2011 and worldwide by Namco Bandai Games in the following month. Dark Souls takes place in the fictional kingdom of Lordran, where players assume the role of a cursed undead character who begins a pilgrimage to discover the fate of their kind. Dark Souls received critical acclaim upon its release and is considered to be one of the best video games ever released, with critics praising the depth of its combat, intricate level design, and world lore. However, the game\'s difficulty received mixed reviews. While some praised the challenge it provides, others criticized it for being unnecessarily unforgiving. The Windows version of the game was less well received, with criticism directed at numerous technical issues.</string>
+    <string name="gta_desc">Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released in September 2013 for PlayStation 3 and Xbox 360, in November 2014 for PlayStation 4 and Xbox One, and in April 2015 for Microsoft Windows. It is the first main entry in the Grand Theft Auto series since 2008\'s Grand Theft Auto IV. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. The open world design lets players freely roam San Andreas\' open countryside and the fictional city of Los Santos, based on Los Angeles. The game is played from either a third-person or first-person perspective and its world is navigated on foot or by vehicle. Players control the three lead protagonists throughout single-player and switch between them both during and outside missions. The story is centred on the heist sequences, and many missions involve shooting and driving gameplay. A "wanted" system governs the aggression of law enforcement response to players who commit crimes. Grand Theft Auto Online, the game's online multiplayer mode, lets up to 30 players engage in a variety of different cooperative and competitive game modes.</string>
+    <string name="ff_desc">Final Fantasy XV is an action role-playing game developed and published by Square Enix as part of the long-running Final Fantasy series. It was released for the PlayStation 4 and Xbox One in 2016, and for Microsoft Windows in 2018. The game features an open world environment and action-based battle system, incorporating quick-switching weapons, elemental magic, and other features such as vehicle travel and camping. The base campaign was later expanded with downloadable content (DLC), adding further gameplay options such as additional playable characters and multiplayer. Final Fantasy XV takes place on the fictional world of Eos; aside from the capital of Lucis, all the world is dominated by the empire of Niflheim, who seek control of the magical Crystal protected by Lucis\'s royal family. On the eve of peace negotiations, Niflheim attacks the capital and steals the Crystal. Noctis Lucis Caelum, heir to the Lucian throne, goes on a quest to rescue the Crystal and defeat Niflheim. He later learns his full role as the "True King", destined to use the Crystal's powers to save Eos from eternal darkness. The game shares a thematic connection with Fabula Nova Crystallis Final Fantasy, a subseries of games linked by a common mythos which includes Final Fantasy XIII and Final Fantasy Type-0.</string>
+
+    <!--- Settings Strings -->
+
+    <string name="action_settings">Settings</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="default_gallery_storage">My Videos</string>
+    <string name="title_auto_upload">Auto upload</string>
+    <string name="summary_upload_over_wifi">Upload the videos when wifi is available</string>
+    <string name="title_upload_quality">Upload Quality</string>
+    <string name="summary_upload_video_quality">Specify video quality for uploads</string>
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="summary_choose_ringtone">Choose notification sound</string>
+    <string name="pref_header_about">About</string>
+    <string name="summary_about">We are team Struggle Productions. Our app gives you the Top Trending Games for any and Every System</string>
+    <string name="app_version">3.5</string>
+    <string name="summary_support">Contact us!</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="title_faq">FAQ</string>
+    <string name="summary_faq">For Android help click here</string>
+    <string name="url_faq">https://developer.android.com/</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="url_privacy">http://www.androidhive.info/privacy-policy/</string>
+    <string name="title_terms">Requirments</string>>
+    <string name="url_terms">bit.ly/fall2018cmp430shared</string>>
+    <string name="title_version">Version</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="title_gallery_storage">Default Storage</string>
+    <string name="title_new_notification_sound">New message notification</string>
+    <string name="title_vibrate">Vibrate</string>
+    <string name="summary_vibrate">Vibrate on new notification</string>
+    <string name="key_upload_over_wifi">key_upload_over_wifi</string>
+    <string name="key_gallery_name">key_gallery_name</string>
+    <string name="key_upload_quality">key_upload_quality</string>
+    <string name="notifications_new_message">notifications_new_message</string>
+    <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
+    <string name="key_vibrate">key_vibrate</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="action_settings_headers">Settings with Headers</string>
+
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis hendrerit ligula non tempus. Aenean ut maximus magna. Nullam porttitor tortor risus, pharetra porttitor ex accumsan vitae. Aenean egestas risus non ipsum aliquet, vitae mollis eros varius. Mauris luctus pharetra enim, eget ullamcorper dolor rhoncus eu. Nullam vel nulla condimentum, ultricies mauris in, pretium massa. Fusce elit ante, auctor eu augue in, placerat tincidunt dolor. Nunc placerat rutrum venenatis. Aliquam rhoncus lacus non lorem bibendum semper. Morbi mauris lectus, sagittis in efficitur et, tristique eu erat. Vivamus scelerisque pulvinar luctus. Pellentesque ac tempus eros, non condimentum diam. Vestibulum ante eros, mollis vel massa a, facilisis lacinia ex. Duis feugiat tristique velit sed varius. Mauris porttitor venenatis rhoncus. Curabitur sodales mauris molestie sapien dignissim dapibus. Suspendisse viverra bibendum viverra. Suspendisse molestie nisl a odio consequat volutpat. Vivamus convallis magna in tortor auctor sagittis. Donec in condimentum ipsum. Integer pharetra velit lorem, eget lobortis ex tincidunt vel. Aenean id elit felis. Donec maximus elit sit amet consequat consectetur. Donec a est eget quam lacinia pellentesque.</string>
+</resources>

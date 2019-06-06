@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item
+            android:id="@+id/action_settings"
+            android:orderInCategory="100"
+            android:title="Settings"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_settings_headers"
+            android:orderInCategory="102"
+            android:title="Headers"/>
+
+        <item
+            android:id="@+id/sort_consoles"
+            android:icon="@android:drawable/ic_menu_search"
+            android:orderInCategory="101"
+            android:title="Consoles"
+            app:showAsAction="ifRoom"
+            android:onClick="Onclick">
+
+        </item>
+</group>
+</menu>
